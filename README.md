@@ -1,5 +1,5 @@
 # TASK-3-PIPELINE-PROCESSOR-DESIGN
-# TASK-2-RAM-DESIGN
+
 **COMPANY** CODETECH IT SOLUTIONS
 
 **NAME** PRADNYA BHAGWAN PAWAR
@@ -57,3 +57,4 @@ Pipeline Registers:
 
 Separates the stages of the pipeline to hold intermediate data and control signals.
 # OUTPUT
+[TASK 3 final.docx](https://github.com/user-attachments/files/18357039/TASK.3.final.docx)
